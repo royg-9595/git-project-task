@@ -1,2 +1,5 @@
 #example_env start
+
+EMAIL_HOST_USER=e-mail
+
 #example env ends
