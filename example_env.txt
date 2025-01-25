@@ -6,5 +6,4 @@ EMAIL_HOST_USER=e-mail
 EMAIL_HOST_PASSWORD=email_Password
 SITE_ID=your site ID in your Sites model
 
-
 #example env ends
